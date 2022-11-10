@@ -1,6 +1,6 @@
 <section align= "center">
   <img src=https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif>
-  <h1> 👋 Hi, my name is Julie! </h1> //find out how to get rid of the lines separating the two headings
+  <h1> 👋 Hi, my name is Julie! </h1> <!-- find out how to get rid of the lines separating the two headings-->
   <h2> An aspiring front end, full stack developer from SoCal 🌞 </h2>
 <section>
 
@@ -14,11 +14,11 @@
 
 <section>
   <img align = "left" src=https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif width= 300>
-  <h3 align= "center left"> 🎯 Goals: </h3> //find out how to have center lerft alignment
+  <h3 align= "center left"> 🎯 Goals: </h3> <!-- find out how to have center left alignment -->
   <p> 💞️ I’m looking to collaborate on anything that will help me become a competitive front end developer. </p>
 </section>
 
-//find out how to add a line break here
+<!-- find out how to add a line break here -->
 
 <section>
   <h3>📫 How to reach me :</h3>
