@@ -22,7 +22,7 @@
 
 <section>
   <h3>📫 How to reach me :</h3>
-  <a href= "juliechan03@gmail.com"> 📨 Email me </a> | <a href= "https://www.linkedin.com/in/juliechan2/"> 📱 Connect w/ me on LinkedIn </a>
+  <a href= "mailto: juliechan03@gmail.com"> 📨 Email me </a> | <a href= "https://www.linkedin.com/in/juliechan2/"> 📱 Connect w/ me on LinkedIn </a>
 </section>
 
 <!---
