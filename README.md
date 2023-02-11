@@ -25,6 +25,10 @@
   <a href= "mailto: juliechan03@gmail.com"> 📨 Email me </a> | <a href= "https://www.linkedin.com/in/juliechan2/"> 📱 Connect w/ me on LinkedIn </a>
   <!-- Make this link open a new tab -->
 </section>
+ 
+<section>
+  <a href="https://github.com/Julie-Chan/github-readme-stats">
+    <img src="https://camo.githubusercontent.com/3cf73f2f9e66a4f704c8ffa24dbb9a9c8103a66817e0084d75856d6710398d4f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42656e746f6e2d4d69636861656c26686964653d637373266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Benton-Michael&amp;hide=css&amp;layout=compact&amp;theme=chartreuse-dark" style="max-width: 100%;"></a>
 
 <!---
 juliechan01/juliechan01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
