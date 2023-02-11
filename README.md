@@ -27,7 +27,7 @@
 </section>
  
 <section>
-  <a href="https://github.com/Julie-Chan/github-readme-stats"></a>
+  <a href="https://github.com/Julie-Chan/github-readme-stats">Stats</a>
 </section>
 
 <!---
