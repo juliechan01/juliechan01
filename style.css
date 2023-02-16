@@ -1,0 +1,65 @@
+/* CSS reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+  /* Fixed width container class that will "auto-center" itself */
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.head {
+    text-align: center;
+    margin: 25px;
+}
+
+.head > h3 {
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.facts, .goals, .stats {
+    display: flex;
+}
+
+.facts-text, .facts-img, .goals-text, .goals-img {
+    padding: 25px;
+}
+
+.facts-text > h3, .goals-text  > h3, .reach > h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.facts-text > p {
+    padding: 5px;
+}
+
+.facts-img {
+    margin-right: 25px;
+}
+
+.stats {
+    justify-content: space-evenly;
+}
+
+/* button w/ a shadow */
+.btn, .btn2{
+    color: white;
+    border-color: black;
+    box-shadow: 3px 2px black;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.btn {
+    background-color: goldenrod;
+}
+
+.btn2 {
+    background-color: royalblue;
+}
