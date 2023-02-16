@@ -13,7 +13,7 @@
 </section>
 
 <section>
-  <img align = "left" src=https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif width= 300>
+  <img align = "left" src=https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif width= 225>
   <h3 align= "center left"> 🎯 Goals: </h3> <!-- find out how to have center left alignment -->
   <p> 💞️ I’m looking to collaborate on anything that will help me become a competitive front end developer. </p>
 </section>
@@ -21,14 +21,25 @@
 <!-- find out how to add a line break here -->
 
 <section>
-  <h3>📫 How to reach me :</h3>
+  <h3> 📫 How to reach me: </h3>
   <a href= "mailto: juliechan03@gmail.com"> 📨 Email me </a> | <a href= "https://www.linkedin.com/in/juliechan2/"> 📱 Connect w/ me on LinkedIn </a>
   <!-- Make this link open a new tab -->
 </section>
- 
+
 <section>
-  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com?user=juliechan01&theme=synthwave&border_radius=5.5)](https://git.io/streak-stats)">
-  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliechan01">
+  <h3> ⌨️ Languages & Tools: </h3>
+  <p align = "center">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3097/3097937.png" width = 50 alt="html">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3097/3097811.png" width = 50 alt="css">
+  <img align="center" src="https://cdn-user-icons.flaticon.com/93637/93637505/1676517111854.svg?token=exp=1676518012~hmac=4eed757078b4bf63512881b0757a6580" width = 50 alt="js">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width = 50 alt="python">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png" width = 50 alt="mysql">
+  </p>
+</section>
+  
+<section>
+  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com?user=juliechan01&theme=synthwave&border_radius=5.5)](https://git.io/streak-stats)" width = 350>
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliechan01&hide=css&layout=compact&theme=synthwave">
 </section>
 
 <!---
