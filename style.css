@@ -43,6 +43,10 @@
     margin-right: 25px;
 }
 
+.goals-img {
+    margin-left: 10px;
+}
+
 .stats {
     justify-content: space-evenly;
 }
