@@ -34,6 +34,8 @@
   <img align="center" src="https://cdn-user-icons.flaticon.com/93637/93637505/1676517111854.svg?token=exp=1676518012~hmac=4eed757078b4bf63512881b0757a6580" width = 50 alt="js">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width = 50 alt="python">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/1199/1199129.png" width = 50 alt="mysql">
+  <img align ="center" src="https://cdn-user-icons.flaticon.com/93637/93637505/1677828511013.svg?token=exp=1677829514~hmac=277b21ea047e57497d64ae2dbbc16176" width = 50 alt="flask">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/128/1183/1183618.png" width = 50 alt="java">
   </p>
 </section>
   
