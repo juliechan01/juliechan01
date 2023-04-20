@@ -29,9 +29,9 @@
 <section>
   <h3> ⌨️ Languages & Tools: </h3>
   <p align = "center">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3097/3097937.png" width = 50 alt="html">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/3097/3097811.png" width = 50 alt="css">
-  <img align="center" src="https://cdn-user-icons.flaticon.com/93637/93637505/1676517111854.svg?token=exp=1676518012~hmac=4eed757078b4bf63512881b0757a6580" width = 50 alt="js">
+  <img align="center" src="https://file.notion.so/f/s/d48470a7-9ae9-4c9f-bdf9-72176351d9cd/Untitled.png?id=a795b1a6-95ce-4ed9-8a8b-28a10b10f699&table=block&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&expirationTimestamp=1682048650806&signature=a5PuVXT0WSX3CcbXfG43NEK4X2V56i_8_NTYqeS3I2A&downloadName=Untitled.png" width = 50 alt="html">
+  <img align="center" src="https://file.notion.so/f/s/93f59967-8f2b-4ccb-b2a0-4d69083c8a5b/Untitled.png?id=ee857f10-e39b-4b3c-8c2f-0cb2bc815db9&table=block&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&expirationTimestamp=1682048702094&signature=r_LmzT6RcCL7DXoFVemyEpiqGmTdi-Il5llX9TV_RQI&downloadName=Untitled.png" width = 50 alt="css">
+  <img align="center" src="https://file.notion.so/f/s/ed12aca9-d2db-4b47-bb9c-d4e98d01057a/Untitled.png?id=d5dd5d75-2aa8-48e6-bf6c-799a60dea162&table=block&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&expirationTimestamp=1682047887696&signature=VekRsJP_jT1aDZ_UHFFeWaNiJ0DQX3taccK8RjLvuaY&downloadName=Untitled.png" width = 50 alt="js">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width = 50 alt="python">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/1199/1199129.png" width = 50 alt="mysql">
   <img align="center" src="https://cdn-icons-png.flaticon.com/128/1183/1183618.png" width = 50 alt="java">
