@@ -1,7 +1,7 @@
 <section align= "center">
   <img src=https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif alt= "keyboard typing gif">
   <h1> 👋 Hi, my name is Julie! </h1> <!-- find out how to get rid of the lines separating the two headings-->
-  <h2> An aspiring front end, full stack developer from SoCal 🌞 </h2>
+  <h2> An aspiring full stack developer from SoCal 🌞 </h2>
 <section>
 
 <section>
