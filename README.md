@@ -33,8 +33,8 @@
   <img align="center" src="https://file.notion.so/f/s/93f59967-8f2b-4ccb-b2a0-4d69083c8a5b/Untitled.png?id=ee857f10-e39b-4b3c-8c2f-0cb2bc815db9&table=block&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&expirationTimestamp=1682048702094&signature=r_LmzT6RcCL7DXoFVemyEpiqGmTdi-Il5llX9TV_RQI&downloadName=Untitled.png" width = 50 alt="css">
   <img align="center" src="https://file.notion.so/f/s/ed12aca9-d2db-4b47-bb9c-d4e98d01057a/Untitled.png?id=d5dd5d75-2aa8-48e6-bf6c-799a60dea162&table=block&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&expirationTimestamp=1682047887696&signature=VekRsJP_jT1aDZ_UHFFeWaNiJ0DQX3taccK8RjLvuaY&downloadName=Untitled.png" width = 50 alt="js">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width = 50 alt="python">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1199/1199129.png" width = 50 alt="mysql">
   <img align="center" src="https://cdn-icons-png.flaticon.com/128/1183/1183618.png" width = 50 alt="java">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/1199/1199129.png" width = 50 alt="mysql">
   </p>
 </section>
   
