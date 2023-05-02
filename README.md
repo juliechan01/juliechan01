@@ -29,17 +29,18 @@
 <section>
   <h3> ⌨️ Languages & Tools: </h3>
   <p align = "center">
-  <img align="center" src="https://file.notion.so/f/s/d48470a7-9ae9-4c9f-bdf9-72176351d9cd/Untitled.png?id=a795b1a6-95ce-4ed9-8a8b-28a10b10f699&table=block&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&expirationTimestamp=1682048650806&signature=a5PuVXT0WSX3CcbXfG43NEK4X2V56i_8_NTYqeS3I2A&downloadName=Untitled.png" width = 50 alt="html">
-  <img align="center" src="https://file.notion.so/f/s/93f59967-8f2b-4ccb-b2a0-4d69083c8a5b/Untitled.png?id=ee857f10-e39b-4b3c-8c2f-0cb2bc815db9&table=block&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&expirationTimestamp=1682048702094&signature=r_LmzT6RcCL7DXoFVemyEpiqGmTdi-Il5llX9TV_RQI&downloadName=Untitled.png" width = 50 alt="css">
-  <img align="center" src="https://file.notion.so/f/s/ed12aca9-d2db-4b47-bb9c-d4e98d01057a/Untitled.png?id=d5dd5d75-2aa8-48e6-bf6c-799a60dea162&table=block&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&expirationTimestamp=1682047887696&signature=VekRsJP_jT1aDZ_UHFFeWaNiJ0DQX3taccK8RjLvuaY&downloadName=Untitled.png" width = 50 alt="js">
+  <img align="center" src="https://www.notion.so/image/https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1891%2F1891365.png?table=block&id=6c98cd5f-3bb3-42bd-b1a7-3615c4373c88&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&width=250&userId=a76d0a37-e3a1-45f9-b9f8-7766185a195d&cache=v2" width = 50 alt="html">
+  <img align="center" src="https://www.notion.so/image/https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1045%2F1045906.png?table=block&id=264f7145-4f0f-4109-9fbb-c034ab89c67a&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&width=250&userId=a76d0a37-e3a1-45f9-b9f8-7766185a195d&cache=v2" width = 50 alt="css">
+  <img align="center" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5ab902a9-c6ee-4f0c-9b49-e61962375c9f%2Fjs1.png?table=block&id=1a469eae-feb1-42ec-843e-490b660f0fe7&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&width=250&userId=a76d0a37-e3a1-45f9-b9f8-7766185a195d&cache=v2" width = 50 alt="js">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/3098/3098090.png" width = 50 alt="python">
   <img align="center" src="https://cdn-icons-png.flaticon.com/128/1183/1183618.png" width = 50 alt="java">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/1199/1199129.png" width = 50 alt="mysql">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/94/MERN-logo.png" width = 120 alt="mern">
   </p>
 </section>
   
 <section>
-  <img align = "left" src="https://github-readme-streak-stats.herokuapp.com?user=juliechan01&theme=synthwave&border_radius=5.5)](https://git.io/streak-stats)" width = 350>
+  <img align = "right" src="https://github-readme-streak-stats.herokuapp.com?user=juliechan01&theme=synthwave&border_radius=5.5)](https://git.io/streak-stats)" width = 350>
   <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliechan01&hide=css&layout=compact&theme=synthwave">
 </section>
 
