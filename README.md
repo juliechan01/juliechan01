@@ -6,10 +6,12 @@
 
 <section>
   <h3 align= "left"> ⚡️ Some info/fun facts about me: </h2>
-  <img align= "right" src= https://www.icegif.com/wp-content/uploads/2022/06/icegif-499.gif width = 290>
+  <img align= "right" src= https://www.icegif.com/wp-content/uploads/2022/06/icegif-499.gif width = 250>
   <p align= "left"> 🎓 Graduated from California State University of Long Beach in May 2021 w/ a BA of Human Developmental Psychology. However, I originally started off as a CS major. </p> 
   <p align= "left"> 👀 I’m interested in spirtuality, the occult, divination, astrology, esthetics, makeup, beauty, travel, and fashion. </p>
   <p align= "left"> 🌱 I’m currently (re)learning how to code. </p>
+  <img align= "right" src= https://media.tenor.com/bE0Niveck2kAAAAC/powerpuff-girls.gif width = 250>
+  <p align = "left"> 💚 I also really vibe with Buttercup from the Powerpuff Girls (1998 version, not the watered down weak sauce 2016 version.) </p>
 </section>
 
 <section>
