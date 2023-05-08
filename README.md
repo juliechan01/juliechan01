@@ -6,7 +6,7 @@
 
 <section>
   <h3 align= "left"> ⚡️ Some info/fun facts about me: </h2>
-  <img align= "right" src= https://www.icegif.com/wp-content/uploads/2022/06/icegif-499.gif width = 300>
+  <img align= "right" src= https://www.icegif.com/wp-content/uploads/2022/06/icegif-499.gif width = 290>
   <p align= "left"> 🎓 Graduated from California State University of Long Beach in May 2021 w/ a BA of Human Developmental Psychology. However, I originally started off as a CS major. </p> 
   <p align= "left"> 👀 I’m interested in spirtuality, the occult, divination, astrology, esthetics, makeup, beauty, travel, and fashion. </p>
   <p align= "left"> 🌱 I’m currently (re)learning how to code. </p>
