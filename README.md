@@ -17,7 +17,7 @@
 <section>
   <img align = "left" src=https://devforum-uploads.s3.dualstack.us-east-2.amazonaws.com/uploads/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif width = 320>
   <h3 align= "center-left"> 🎯 Goals: </h3> <!-- find out how to have center left alignment -->
-  <p> 💞️ I’m looking to collaborate on anything that will help me become a competitive front end developer. </p>
+  <p> 💞️ I’m looking to collaborate on anything that will help me become a competitive full stack/React developer. </p>
 </section>
 
 <!-- find out how to add a line break here -->
