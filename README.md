@@ -1,13 +1,12 @@
 <section align="center">
     <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" alt="keyboard typing gif"><br/>
     <h1>👋 Hi, my name is Julie!</h1>
+    <h3> An aspiring full stack developer from SoCal 🌞 </h3>
 </section>
 
-## An aspiring full stack developer from SoCal 🌞
 
 <section>
   <h3> ⚡️ Some info/fun facts about me: </h3>
-  <img align= "right" src= https://www.icegif.com/wp-content/uploads/2022/06/icegif-499.gif width = 250>
   <p align= "left"> 🎓 Graduated from CSULB in May 2021 w/ a BA of Human Developmental Psychology. However, I originally started off as a CS major. </p> 
   <p align= "left"> 👀 I’m interested in spirituality/the occult, paranormal activity, video games, makeup/beauty, travel, and fashion. </p>
   <img align= "right" src= https://media.tenor.com/bE0Niveck2kAAAAC/powerpuff-girls.gif width = 250>
