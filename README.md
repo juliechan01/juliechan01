@@ -32,6 +32,7 @@
 ---
 ---
 ---
+
 <section align="center">
   <h3 align="center"> ⌨️ Languages & Tools: </h3>
   <img align="center" src="https://www.notion.so/image/https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F1891%2F1891365.png?table=block&id=6c98cd5f-3bb3-42bd-b1a7-3615c4373c88&spaceId=7439bad4-bed9-4ad1-a443-7ab49d1df260&width=250&userId=a76d0a37-e3a1-45f9-b9f8-7766185a195d&cache=v2" width = 50 alt="html">
