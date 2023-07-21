@@ -47,6 +47,6 @@
   
 <section>
   <h3 align="center">👩🏻‍💻 Activity:</h3>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=juliechan01&theme=synthwave&border_radius=5.5)](https://git.io/streak-stats)" width = 257 height = 125>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=juliechan01&theme=synthwave&border_radius=5.5)](https://git.io/streak-stats)" width = 305 height = 125>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliechan01&hide=css&layout=compact&theme=synthwave">
 </section>
