@@ -1,13 +1,13 @@
 <section align="center">
     <img src="https://media.tenor.com/D5QVYSPmpmAAAAAC/anime-keyboard-typing-keyboard-anime.gif" alt="keyboard typing gif"><br/>
     <h1>👋 Hi, my name is Julie!</h1>
-    <h3> An aspiring full stack developer from SoCal 🌞 </h3>
+    <h3> A full stack developer based in Orange County, California 🌞 </h3>
 </section>
 
 
 <section>
   <h3> ⚡️ Some info/fun facts about me: </h3>
-  <p align= "left"> 🎓 Graduated from CSULB in May 2021 w/ a BA of Human Developmental Psychology. However, I originally started off as a CS major. </p> 
+  <p align= "left"> 🎓 Graduated from CSULB in May 2021 w/ a BA of Human Developmental Psychology. Certified in full stack software development from Coding Dojo in Aug 2023. </p> 
   <p align= "left"> 👀 I’m interested in spirituality/the occult, paranormal activity, video games, makeup/beauty, travel, and fashion. </p>
   <img align= "right" src= https://media.tenor.com/bE0Niveck2kAAAAC/powerpuff-girls.gif width = 250>
   <p align= "left"> 🌱 I’m currently (re)learning how to code. </p>
