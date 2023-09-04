@@ -10,7 +10,7 @@
   <p align= "left"> 🎓 Graduated from CSULB in May 2021 w/ a BA of Human Developmental Psychology. Certified in full stack software development from Coding Dojo in Aug 2023. </p> 
   <p align= "left"> 👀 I’m interested in spirituality/the occult, paranormal activity, video games, makeup/beauty, travel, and fashion. </p>
   <img align= "right" src= https://media.tenor.com/bE0Niveck2kAAAAC/powerpuff-girls.gif width = 250>
-  <p align= "left"> 🌱 I’m currently (re)learning how to code. </p>
+  <p align= "left"> 🌱 I’m currently improving and mastering React.js/Next.js and am planning to learn Typescript. </p>
   <p align = "left"> 💚 I also really vibe with Buttercup from the Powerpuff Girls (1998 version, not the watered down weak sauce 2016 version.) </p>
 </section>
 
