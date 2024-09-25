@@ -47,5 +47,5 @@
   <h3 align="center">👩🏻‍💻 Activity:</h3>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=juliechan01&theme=synthwave&border_radius=5.5)](https://git.io/streak-stats)" width = 305 height = 125>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliechan01&hide=css&layout=compact&theme=synthwave">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66f3b6d9c45e253cb03f8207?variant=dark&roadmaps=full-stack%2Creact%2Cpython%2Cjavascript" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img padding:top = 20 px, src="https://roadmap.sh/card/wide/66f3b6d9c45e253cb03f8207?variant=dark&roadmaps=full-stack%2Creact%2Cpython%2Cjavascript" alt="roadmap.sh"/></a>
 </section>
