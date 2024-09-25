@@ -49,6 +49,10 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliechan01&hide=css&layout=compact&theme=synthwave">
 </section>
 
-<section style="margin-top:30px">
-  <a href="https://roadmap.sh"><img style = "margin-top: 30px" src="https://roadmap.sh/card/wide/66f3b6d9c45e253cb03f8207?variant=dark&roadmaps=full-stack%2Creact%2Cpython%2Cjavascript" alt="roadmap.sh"/></a>
+---
+---
+---
+
+<section style="padding-top:30px">
+  <a href="https://roadmap.sh"><img align = "center" src="https://roadmap.sh/card/wide/66f3b6d9c45e253cb03f8207?variant=dark&roadmaps=full-stack%2Creact%2Cpython%2Cjavascript" alt="roadmap.sh"/></a>
 </section>
